@@ -6,4 +6,4 @@ Now, I am leveraging my expertise in communication and data analysis to build a 
 
 Feel free to check out my projects and connect with me!
 Email: jnayosh@gmail.com
-LinkedIn: www.linkedin.com/in/jawadnayosh
+
