@@ -4,6 +4,3 @@ I'm Jawad, a data enthusiast and humanitarian activist passionate about using da
 
 Now, I am leveraging my expertise in communication and data analysis to build a strong career in the data field. Skilled in Python, SQL, Excel, Tableau, and Power BI, I am also pursuing an MBA in Business Analytics (Expected 2025) to deepen my understanding of data-driven decision-making.
 
-Feel free to check out my projects and connect with me!
-Email: jnayosh@gmail.com
-
