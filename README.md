@@ -1,6 +1,6 @@
 ## Hi there 
 
-I'm Jawad, a data enthusiast and humanitarian activist passionate about using data to drive meaningful change. With a strong background in communication and data analysis, I have worked extensively with humanitarian organizations, helping them make better decisions to support vulnerable communities. I have produced and presented data-driven reports and insights that contributed to impactful programs.
+I’m Jawad, a professional with a background in business analytics, project and operations management, and performance reporting. I have experience working with complex organizations, supporting leadership through data-driven insights, clear communication, and structured reporting to improve decision-making, efficiency, and outcomes.
 
-Now, I am leveraging my background in communication and data analysis to build a strong career in the data field. Skilled in Python, SQL, Excel, Tableau, and Power BI, I recently completed my MBA in Business Analytics, which strengthened my ability to apply data-driven decision-making to real-world business challenges.
+My work combines analytical skills with strong business and stakeholder understanding. I have built and presented dashboards, KPI reports, and operational analyses, and supported teams in planning, monitoring performance, and translating data into practical actions. I hold an MBA in Business Analytics and have hands-on experience with tools such as Python, SQL, Excel, Tableau, and Power BI, which I use to support business, operations, and project delivery in real-world environments.
 
