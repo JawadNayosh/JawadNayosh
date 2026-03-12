@@ -8,7 +8,7 @@ I have experience working with operational and program data, designing reporting
 
 On this GitHub profile, I share projects involving data analysis, dashboards, and analytics workflows, including exploratory data analysis, reporting automation, and business performance analysis using real-world and practice datasets.
 
-## Tools & Technologies
+### Tools & Technologies
 
 ### Programming & Databases
 Python (Pandas, NumPy, Matplotlib, Scikit-learn, GeoPandas) • SQL • PostgreSQL
