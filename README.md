@@ -10,13 +10,13 @@ On this GitHub profile, I share projects involving data analysis, dashboards, an
 
 ## Tools & Technologies
 
-# Programming & Databases
+### Programming & Databases
 Python (Pandas, NumPy, Matplotlib, Scikit-learn, GeoPandas) • SQL • PostgreSQL
-# Data Visualization & Business Intelligence
+### Data Visualization & Business Intelligence
 Power BI • Tableau • Excel • Data Visualization • Dashboard Development • KPI Reporting
-# Cloud & Data Platforms
+### Cloud & Data Platforms
 Azure SQL • Azure Data Factory • Azure Synapse Analytics • Azure Data Lake • Azure Blob Storage • Hadoop (basic) • Snowflake (basic) • BigQuery (basic) • Databricks (basic)
-# Data & Analytics Concepts
+### Data & Analytics Concepts
 Exploratory Data Analysis (EDA) • Data Cleaning • Data Validation • ETL / Data Transformation • Data Modeling
 
 ## Areas of Interest
